@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<ArrayOfServiceBasePrice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServiceBasePrice>
+    <Posluga>Заміна повітряного фільтру</Posluga>
+    <Price>120</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Заміна топливного фільтру</Posluga>
+    <Price>150</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Заміна масляного фільтру</Posluga>
+    <Price>175</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Заміна склопідйомника</Posluga>
+    <Price>120</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Заміна дверних ручок</Posluga>
+    <Price>125</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Заміна склоочисників</Posluga>
+    <Price>200</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Натирання воском скла</Posluga>
+    <Price>300</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Поклейка плівки на фари та скло</Posluga>
+    <Price>500</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Поклейка плівки на весь автомобіль</Posluga>
+    <Price>700</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Полірування фар</Posluga>
+    <Price>160</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Заміна резини</Posluga>
+    <Price>300</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Заміна дисків</Posluga>
+    <Price>300</Price>
+  </ServiceBasePrice>
+  <ServiceBasePrice>
+    <Posluga>Шипування резини</Posluga>
+    <Price>350</Price>
+  </ServiceBasePrice>
+</ArrayOfServiceBasePrice>

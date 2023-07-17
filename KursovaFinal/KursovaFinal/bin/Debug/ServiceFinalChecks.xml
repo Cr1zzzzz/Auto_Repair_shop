@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<ArrayOfServiceFinalCheck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Тхожевський.О.Б</Name>
+      <Password>1111</Password>
+      <NumberPhone>+380465489513</NumberPhone>
+      <ID>1</ID>
+      <Experience>4</Experience>
+    </worker>
+    <client>
+      <Name>Ковальчук С.О.</Name>
+      <Password>1111</Password>
+      <NumberPhone>+380164832165</NumberPhone>
+      <ID>1</ID>
+    </client>
+    <description />
+    <check>
+      <ServiceBasePrice>
+        <Posluga>Заміна масляного фільтру</Posluga>
+        <Price>175</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна дверних ручок</Posluga>
+        <Price>125</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна склопідйомника</Posluga>
+        <Price>120</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Натирання воском скла</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Поклейка плівки на весь автомобіль</Posluga>
+        <Price>700</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-02T15:24:18.5283292+03:00</date>
+    <ID>1</ID>
+    <finalPrice>1420</finalPrice>
+    <isEnded>false</isEnded>
+  </ServiceFinalCheck>
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Тхожевський.О.Б</Name>
+      <Password>1111</Password>
+      <NumberPhone>+380465489513</NumberPhone>
+      <ID>1</ID>
+      <Experience>4</Experience>
+    </worker>
+    <client>
+      <Name>Поліщук С.В.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380197951614</NumberPhone>
+      <ID>2</ID>
+    </client>
+    <description />
+    <check>
+      <ServiceBasePrice>
+        <Posluga>Заміна масляного фільтру</Posluga>
+        <Price>175</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна склоочисників</Posluga>
+        <Price>200</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Поклейка плівки на весь автомобіль</Posluga>
+        <Price>700</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна резини</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-02T15:24:29.4123477+03:00</date>
+    <ID>2</ID>
+    <finalPrice>1375</finalPrice>
+    <isEnded>true</isEnded>
+  </ServiceFinalCheck>
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Тхожевський.О.Б</Name>
+      <Password>1111</Password>
+      <NumberPhone>+380465489513</NumberPhone>
+      <ID>1</ID>
+      <Experience>4</Experience>
+    </worker>
+    <client>
+      <Name>Ковальчук С.О.</Name>
+      <Password>1111</Password>
+      <NumberPhone>+380164832165</NumberPhone>
+      <ID>1</ID>
+    </client>
+    <description> ,m.m,.m,.m,m,.,m</description>
+    <check>
+      <ServiceBasePrice>
+        <Posluga>Заміна топливного фільтру</Posluga>
+        <Price>150</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна дверних ручок</Posluga>
+        <Price>125</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-02T15:24:42.3664002+03:00</date>
+    <ID>3</ID>
+    <finalPrice>275</finalPrice>
+    <isEnded>true</isEnded>
+  </ServiceFinalCheck>
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Ткач Т.Г.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380497984345</NumberPhone>
+      <ID>2</ID>
+      <Experience>5</Experience>
+    </worker>
+    <client>
+      <Name>Поліщук С.В.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380197951614</NumberPhone>
+      <ID>2</ID>
+    </client>
+    <description />
+    <check>
+      <ServiceBasePrice>
+        <Posluga>Заміна топливного фільтру</Posluga>
+        <Price>150</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна дверних ручок</Posluga>
+        <Price>125</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Натирання воском скла</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Поклейка плівки на весь автомобіль</Posluga>
+        <Price>700</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-02T15:26:33.1984941+03:00</date>
+    <ID>4</ID>
+    <finalPrice>1275</finalPrice>
+    <isEnded>true</isEnded>
+  </ServiceFinalCheck>
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Ткач Т.Г.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380497984345</NumberPhone>
+      <ID>2</ID>
+      <Experience>5</Experience>
+    </worker>
+    <client>
+      <Name>Поліщук С.В.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380197951614</NumberPhone>
+      <ID>2</ID>
+    </client>
+    <description />
+    <check>
+      <ServiceBasePrice>
+        <Posluga>Заміна склопідйомника</Posluga>
+        <Price>120</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Натирання воском скла</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Поклейка плівки на весь автомобіль</Posluga>
+        <Price>700</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна резини</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-02T15:26:42.6125027+03:00</date>
+    <ID>5</ID>
+    <finalPrice>1420</finalPrice>
+    <isEnded>false</isEnded>
+  </ServiceFinalCheck>
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Тхожевський.О.Б</Name>
+      <Password>1111</Password>
+      <NumberPhone>+380465489513</NumberPhone>
+      <ID>1</ID>
+      <Experience>4</Experience>
+    </worker>
+    <client>
+      <Name>Ковальчук С.О.</Name>
+      <Password>1111</Password>
+      <NumberPhone>+380164832165</NumberPhone>
+      <ID>1</ID>
+    </client>
+    <description />
+    <check>
+      <ServiceBasePrice>
+        <Posluga>іфвфів</Posluga>
+        <Price>12</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-05T14:52:59.7292589+03:00</date>
+    <ID>6</ID>
+    <finalPrice>12</finalPrice>
+    <isEnded>true</isEnded>
+  </ServiceFinalCheck>
+</ArrayOfServiceFinalCheck>

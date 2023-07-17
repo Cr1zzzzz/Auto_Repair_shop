@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <Name>qwewqwewqe</Name>
+    <Password>1111</Password>
+    <NumberPhone>+38123123123</NumberPhone>
+    <ID>1</ID>
+    <Experience>4</Experience>
+  </Worker>
+  <Worker>
+    <Name>weaweqewq.</Name>
+    <Password>2222</Password>
+    <NumberPhone>+3812131235</NumberPhone>
+    <ID>2</ID>
+    <Experience>5</Experience>
+  </Worker>
+  <Worker>
+    <Name>sdasfasf.</Name>
+    <Password>3333</Password>
+    <NumberPhone>+332131232134</NumberPhone>
+    <ID>3</ID>
+    <Experience>3</Experience>
+  </Worker>
+</ArrayOfWorker>

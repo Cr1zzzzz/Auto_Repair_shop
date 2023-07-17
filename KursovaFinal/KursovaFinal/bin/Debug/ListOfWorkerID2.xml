@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<ArrayOfServiceFinalCheck xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Ткач Т.Г.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380497984345</NumberPhone>
+      <ID>2</ID>
+      <Experience>5</Experience>
+    </worker>
+    <client>
+      <Name>Поліщук С.В.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380197951614</NumberPhone>
+      <ID>2</ID>
+    </client>
+    <description />
+    <check>
+      <ServiceBasePrice>
+        <Posluga>Заміна топливного фільтру</Posluga>
+        <Price>150</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна дверних ручок</Posluga>
+        <Price>125</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Натирання воском скла</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Поклейка плівки на весь автомобіль</Posluga>
+        <Price>700</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-02T15:26:33.1984941+03:00</date>
+    <ID>4</ID>
+    <finalPrice>1275</finalPrice>
+    <isEnded>true</isEnded>
+  </ServiceFinalCheck>
+  <ServiceFinalCheck>
+    <worker>
+      <Name>Ткач Т.Г.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380497984345</NumberPhone>
+      <ID>2</ID>
+      <Experience>5</Experience>
+    </worker>
+    <client>
+      <Name>Поліщук С.В.</Name>
+      <Password>2222</Password>
+      <NumberPhone>+380197951614</NumberPhone>
+      <ID>2</ID>
+    </client>
+    <description />
+    <check>
+      <ServiceBasePrice>
+        <Posluga>Заміна склопідйомника</Posluga>
+        <Price>120</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Натирання воском скла</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Поклейка плівки на весь автомобіль</Posluga>
+        <Price>700</Price>
+      </ServiceBasePrice>
+      <ServiceBasePrice>
+        <Posluga>Заміна резини</Posluga>
+        <Price>300</Price>
+      </ServiceBasePrice>
+    </check>
+    <date>2022-04-02T15:26:42.6125027+03:00</date>
+    <ID>5</ID>
+    <finalPrice>1420</finalPrice>
+    <isEnded>false</isEnded>
+  </ServiceFinalCheck>
+</ArrayOfServiceFinalCheck>

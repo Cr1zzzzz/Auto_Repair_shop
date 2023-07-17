@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfAdmin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Admin>
+    <Name>safsafasfasfasfasfasf.</Name>
+    <Password>1</Password>
+    <NumberPhone>+380681111111</NumberPhone>
+    <ID>1</ID>
+    <Experience>2</Experience>
+  </Admin>
+  <Admin>
+    <Name>asfasgegwgsagasg.</Name>
+    <Password>2222</Password>
+    <NumberPhone>+380487946123</NumberPhone>
+    <ID>2</ID>
+    <Experience>3</Experience>
+  </Admin>
+</ArrayOfAdmin>
